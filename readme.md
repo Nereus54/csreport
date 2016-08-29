@@ -1,23 +1,13 @@
-# QueueApp Used frameworks :<br><br>
+# CSReport Used frameworks :<br><br>
 
 This application uses PHP framework Laravel 5.3 and CSS framework Bootstrap 3.3.7
 
-# Application Description :
-
-We have a council who would like to use an application to queue people at the reception
-desk. The receptionist should be able to select the service (example provided below) and
-take the customer details depending on the customer type:<br><br>
-
-• Citizen: title, first name and last name fields should be displayed<br>
-• Organisation: organisation name field should be visible<br>
-• Anonymous: no input fields should be visible<br>
-
 # How to run :
 
-Download the QueueApp to your web server.
+Download the CSReport to your web server.
 
 A) You can run it from your browser with :<br>
-http://localhost/queue/
+http://localhost/csreport/
 
 B) If you use vhosts then create vhost :
 ```
