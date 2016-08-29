@@ -2,14 +2,6 @@
 @section('page_title', 'CS Reporting - Transaction List')
 
 @section('content')
-  <!--
-  'per_page' => int 50
-  'current_page' => int 1
-  'next_page_url' => string 'https://testreportingapi.clearsettle.com/api/v3/transaction/list?page=2'
-  'prev_page_url' => null
-  'from' => int 1
-  'to' => int 50
-  -->
   
   <div class="row mb">
 	 
@@ -103,7 +95,7 @@
 	</div>
   </div>
   
-  <div class="spinner" style="display:none;"></div>
+  <div class="spinner" style="display:none; top: 15% !important;"></div>
   
   <script type="text/javascript">
 	
