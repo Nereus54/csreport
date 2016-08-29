@@ -1,6 +1,6 @@
 # QueueApp Used frameworks :<br><br>
 
-This application uses PHP framework CodeIgnitor 3.0.6 and CSS framework Bootstrap 3.3.6
+This application uses PHP framework Laravel 5.3 and CSS framework Bootstrap 3.3.7
 
 # Application Description :
 
