@@ -120,13 +120,9 @@
 		});
 		$("#datetimepicker1").on("dp.change", function (e) {
 			$('#datetimepicker2').data("DateTimePicker").minDate(e.date);
-
-			console.log($("#datetimepicker1").find("input").val());
 		});
 		$("#datetimepicker2").on("dp.change", function (e) {
 			$('#datetimepicker1').data("DateTimePicker").maxDate(e.date);
-
-			console.log($("#datetimepicker1").find("input").val());
 		});
 
 		$("#datetimepicker1").find("input").val('<?php echo $fromDate; ?>');
