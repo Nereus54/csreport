@@ -1,0 +1,38 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.mb {
+    margin-bottom: 10px !important;
+}
+
+.mb-2x {
+    margin-bottom: 20px !important;
+}
+
+table.green-th th {
+    background-color: #00d289;
+    color: #fff;
+}
+
+table.small-text {
+    font-size: 10px;
+}
+
+.spinner {
+    position: absolute;
+    height: 32px;
+    width: 32px;
+    top: 55%;
+    left: 50%;
+    margin-left: -16px;
+    margin-top: -16px;
+    background: url(../imgs/ajax-loader.gif);
+    background-size: 100%;
+}
+
+.bold {
+    font-weight: 700;
+}
